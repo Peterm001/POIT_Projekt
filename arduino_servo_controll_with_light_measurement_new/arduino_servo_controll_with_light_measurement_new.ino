@@ -80,6 +80,10 @@ void loop()
         SendData(&temp);
         previousMillis = currentMillis;
       }
+
+      if (!c.connected()){
+        ESP.restart();
+      }
     } 
   }     
 }
