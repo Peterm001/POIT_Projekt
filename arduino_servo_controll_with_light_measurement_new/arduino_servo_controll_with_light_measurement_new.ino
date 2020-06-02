@@ -31,6 +31,7 @@ void setup() {
 
   Serial.begin(115200);
   Serial.println("Booting");
+  //setup wifi connection
   WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
   IPAddress ip(192, 168, 168, 70);
@@ -50,7 +51,7 @@ void setup() {
   Serial.println("WiFi connected");
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
-
+  
   server.begin();
 
 }
@@ -63,6 +64,7 @@ void loop()
     Serial.println("Connected to arduino!");
     while(true)
     {
+     //read data
      char x[3];
      char tmp[1] = {c.read()};
   
@@ -74,13 +76,14 @@ void loop()
 
       
       int currentMillis = millis();
-      if (currentMillis - previousMillis >= 250)
+      //execute every 10ms
+      if (currentMillis - previousMillis >= 10)
       {
         servo.write(atoi(x));
         SendData(&temp);
         previousMillis = currentMillis;
       }
-
+      //restart arudino on disconnect
       if (!c.connected()){
         ESP.restart();
       }
@@ -88,6 +91,7 @@ void loop()
   }     
 }
 
+//handles sending data to application 
 void SendData(int* value)
 {
     lightCal = analogRead(sensorPin);

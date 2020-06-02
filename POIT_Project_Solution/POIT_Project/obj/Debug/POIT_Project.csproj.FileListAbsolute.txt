@@ -8,3 +8,16 @@ C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Project\POIT_Projec
 C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Project\POIT_Project\obj\Debug\POIT_Project.csproj.CoreCompileInputs.cache
 C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Project\POIT_Project\obj\Debug\POIT_Project.exe
 C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Project\POIT_Project\obj\Debug\POIT_Project.pdb
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\bin\Debug\POIT_Project.exe.config
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\bin\Debug\POIT_Project.exe
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\bin\Debug\POIT_Project.pdb
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\bin\Debug\AGauge.dll
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.csprojAssemblyReference.cache
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.Form1.resources
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.Properties.Resources.resources
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.csproj.GenerateResource.cache
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.csproj.CopyComplete
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.exe
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\obj\Debug\POIT_Project.pdb
+C:\Users\Peter\Google Drive\Synch File\STU\POIT\Projekt\POIT_Projekt\POIT_Project_Solution\POIT_Project\bin\Debug\kayChart.dll
